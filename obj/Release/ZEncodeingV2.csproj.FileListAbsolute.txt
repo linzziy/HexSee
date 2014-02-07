@@ -1,0 +1,15 @@
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\bin\Release\HEXSEE.exe.config
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\bin\Release\HEXSEE.exe
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\bin\Release\HEXSEE.pdb
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\MainWindow.g.cs
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\App.g.cs
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\HEXSEE_MarkupCompile.cache
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\HEXSEE_MarkupCompile.lref
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\MainWindow.baml
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\Themes\Generic.baml
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\HEXSEE.g.resources
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\ZEncodeingV2.Properties.Resources.resources
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\ZEncodeingV2.csproj.GenerateResource.Cache
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\HEXSEE.exe
+E:\hj\src\app.class.hujiang.com\ZEncodeingV2\obj\Release\HEXSEE.pdb
